@@ -14,8 +14,24 @@ Códigos de las siguientes pruebas del control:
 Códigos para ejecutar:
 - Plano completo sin obtaculos
 - Plano completo con obtaculos
+- Plano con RVIZ
 - Plano completo sin obtaculos (SLAM)
 - Plano completo con obtaculos (SLAM)
 
-- [PRM SLAM](https://github.com/itzchav/PRM_SLAM_Control_cinematico)
+
+
+[PRM SLAM](https://github.com/itzchav/PRM_SLAM_Control_cinematico)
+
+Códigos offline:
+- Obtención de mapa
+- Generar trayectoira con PRM
+- Navegación con Control Cinemático
+
+Códigos online:
+- PRM-SLAM Control Cinemático
+
+
 - [Aprendizaje por Refuerzo](https://github.com/itzchav/Navegacion-con-Aprendizaje-por-Refuerzo)
+
+- Navegación con RL offline
+- Navegación con RL online
