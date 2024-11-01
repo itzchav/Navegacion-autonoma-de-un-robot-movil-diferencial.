@@ -31,7 +31,7 @@ Códigos online:
 - PRM-SLAM Control Cinemático
 
 
-- [Aprendizaje por Refuerzo](https://github.com/itzchav/Navegacion-con-Aprendizaje-por-Refuerzo)
+[Aprendizaje por Refuerzo](https://github.com/itzchav/Navegacion-con-Aprendizaje-por-Refuerzo)
 
 - Navegación con RL offline
 - Navegación con RL online
