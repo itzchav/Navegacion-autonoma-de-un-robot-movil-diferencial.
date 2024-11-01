@@ -4,4 +4,5 @@ Implementación del algoritmo SLAM para la generación de un mapa del entorno en
 ## Códigos
 - [Control cinemático](https://github.com/itzchav/Control-cinematico-turtlebot)
 - [Entorno](https://github.com/itzchav/Entorno-Division-Estudios-Posgrado/tree/main)
+- [PRM SLAM](https://github.com/itzchav/PRM_SLAM_Control_cinematico)
 - [Aprendizaje por Refuerzo](https://github.com/itzchav/Navegacion-con-Aprendizaje-por-Refuerzo)
